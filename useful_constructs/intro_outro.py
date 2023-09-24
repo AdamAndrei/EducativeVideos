@@ -1,9 +1,4 @@
-import numpy as np
-from manim import *
-
-
-def combinePoints(p1: np.array([float]), p2: np.array([float]), t: float):
-    return (1 - t) * p1 + t * p2
+from useful_constructs.utils import *
 
 
 def generateVertices(x_0, y_0, side, number_of_iterations, t) -> list[list[np.array([float])]]:
