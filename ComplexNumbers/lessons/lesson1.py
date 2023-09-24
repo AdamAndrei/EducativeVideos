@@ -1,7 +1,7 @@
-"""
+r"""
 This file should include all the needed classes for the first lesson.\n
 Presented points:
-    - introduction of __i__
+    - introduction of i
     - algebraic form of complex numbers
     - point out that reals are contained in the complex numbers
     - modulus and conjugate
