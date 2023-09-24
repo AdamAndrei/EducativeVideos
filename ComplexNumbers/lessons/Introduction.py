@@ -59,7 +59,7 @@ class Introduction(Scene):
             self.wait(0.5)
 
     """
-    This is highly customize for this class usage only, should be kept inside this class not in a utils file
+    This is highly customized for this class usage only, should be kept inside this class not in a utils file
     so that is not confusing.
     """
 
